@@ -1,0 +1,43 @@
+Task 1
+1.	User enters a positive number (or zero (0) to stop)
+2.	If the first number entered by user is zero (0), print “No largest number is available”. Then stop process
+3.	If the first number entered by user is positive, track and save as the “largest number entered”
+4.	Use the “do-while loop” to repeatedly request user to enter a different number
+5.	If the number 0 is entered, don’t ask for more numbers.
+6.	If the number is greater than the “largest number entered”, replace and save new number as “largest number entered”
+7.	When user enters zero (0), stop process.
+8.	Show the result “The largest number entered is [the largest number]”.
+
+Task 2
+1.	Request user: “Please enter your first name:”
+2.	Store the username in a variable tagged as “first_name”
+3.	Print / display on screen: “[first_name], Hello, World”
+
+Task 3
+1.	Request user to enter a number
+2.	Initialise a list to store the entered numbers
+3.	Use a loop to repeatedly ask the user: “Do you want to enter another number?”
+•	If user answers yes, request and store the number in the list
+•	If user answers no, exit the loop
+4.	If no numbers were entered, print “No numbers were entered.”
+5.	If numbers were entered, calculate the total sum of the numbers in the list
+6.	Count how many numbers are in the list. 
+7.	Divide the total sum by the count to calculate the arithmetic average.
+8.	Show the average to the user.
+
+Task 4
+1.	Generate a list tagged TotalGroceries
+2.	Followed by a list tagged GroceriesBought
+3.	Followed by a list tagged NotYetBought for each item in TotalGroceries
+    IF the item is not tagged in GroceriesBought ADD the item to NotYetBought
+4.	Sort NotYetBought in alphabetical order
+5.	Display groceries NotYetBought in NotYetBought category
+
+Task 5
+1.	Process STARTS
+2.	Read the two numbers captured by the user (called X and Y)
+3.1	Calculate the sum of two numbers X plus Y to determine S. Set S = X + Y
+3.2	Calculate the average of S by dividing S with 2 to determine A. Set A = S/2
+3.3	Multiply the two numbers X with Y determine the product (P). Set P = X x Y
+4.	Display the values of S, A, and P.
+5.	Process STOPS.
